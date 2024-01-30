@@ -14,3 +14,11 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.text-brown{
+  color:#786154
+}
+
+.bg-brown{
+  background-color: brown;
+}
